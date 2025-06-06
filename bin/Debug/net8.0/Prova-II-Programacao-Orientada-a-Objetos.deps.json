@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prova-II-Programacao-Orientada-a-Objetos/1.0.0": {
+        "runtime": {
+          "Prova-II-Programacao-Orientada-a-Objetos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prova-II-Programacao-Orientada-a-Objetos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

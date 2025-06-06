@@ -1,0 +1,15 @@
+c:\Users\gabri\Documents\PII-Guilherme\Prova-II-Programacao-Orientada-a-Objetos\bin\Debug\net8.0\Prova-II-Programacao-Orientada-a-Objetos.exe
+C:\Users\gabri\Documents\PII-Guilherme\Prova-II-Programacao-Orientada-a-Objetos\bin\Debug\net8.0\Prova-II-Programacao-Orientada-a-Objetos.deps.json
+C:\Users\gabri\Documents\PII-Guilherme\Prova-II-Programacao-Orientada-a-Objetos\bin\Debug\net8.0\Prova-II-Programacao-Orientada-a-Objetos.runtimeconfig.json
+c:\Users\gabri\Documents\PII-Guilherme\Prova-II-Programacao-Orientada-a-Objetos\bin\Debug\net8.0\Prova-II-Programacao-Orientada-a-Objetos.dll
+c:\Users\gabri\Documents\PII-Guilherme\Prova-II-Programacao-Orientada-a-Objetos\bin\Debug\net8.0\Prova-II-Programacao-Orientada-a-Objetos.pdb
+c:\Users\gabri\Documents\PII-Guilherme\Prova-II-Programacao-Orientada-a-Objetos\obj\Debug\net8.0\Prova-II-Programacao-Orientada-a-Objetos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gabri\Documents\PII-Guilherme\Prova-II-Programacao-Orientada-a-Objetos\obj\Debug\net8.0\Prova-II-Programacao-Orientada-a-Objetos.AssemblyInfoInputs.cache
+c:\Users\gabri\Documents\PII-Guilherme\Prova-II-Programacao-Orientada-a-Objetos\obj\Debug\net8.0\Prova-II-Programacao-Orientada-a-Objetos.AssemblyInfo.cs
+c:\Users\gabri\Documents\PII-Guilherme\Prova-II-Programacao-Orientada-a-Objetos\obj\Debug\net8.0\Prova-II-Programacao-Orientada-a-Objetos.csproj.CoreCompileInputs.cache
+c:\Users\gabri\Documents\PII-Guilherme\Prova-II-Programacao-Orientada-a-Objetos\obj\Debug\net8.0\Prova-II-Programacao-Orientada-a-Objetos.sourcelink.json
+c:\Users\gabri\Documents\PII-Guilherme\Prova-II-Programacao-Orientada-a-Objetos\obj\Debug\net8.0\Prova-II-Programacao-Orientada-a-Objetos.dll
+c:\Users\gabri\Documents\PII-Guilherme\Prova-II-Programacao-Orientada-a-Objetos\obj\Debug\net8.0\refint\Prova-II-Programacao-Orientada-a-Objetos.dll
+c:\Users\gabri\Documents\PII-Guilherme\Prova-II-Programacao-Orientada-a-Objetos\obj\Debug\net8.0\Prova-II-Programacao-Orientada-a-Objetos.pdb
+C:\Users\gabri\Documents\PII-Guilherme\Prova-II-Programacao-Orientada-a-Objetos\obj\Debug\net8.0\Prova-II-Programacao-Orientada-a-Objetos.genruntimeconfig.cache
+C:\Users\gabri\Documents\PII-Guilherme\Prova-II-Programacao-Orientada-a-Objetos\obj\Debug\net8.0\ref\Prova-II-Programacao-Orientada-a-Objetos.dll
