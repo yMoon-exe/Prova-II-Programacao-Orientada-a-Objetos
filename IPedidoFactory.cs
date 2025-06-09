@@ -1,13 +1,9 @@
-public class PedidoFactory : IPedidoFactory
+using LojaVirtual;
+
+namespace LojaVirtual
 {
-    public Pedido CriarPedido(int id, Cliente cliente, List<ItemPedido> itens)
-    {
-        return new Pedido
-        {
-            Id = id,
-            Cliente = cliente,
-            Itens = itens,
-            Data = DateTime.Now
-        };
-    }
+    public interface IPedidoFactory
+{
+    Pedido CriarPedido(int id, Cliente cliente, List<ItemPedido> itens);
+}
 }

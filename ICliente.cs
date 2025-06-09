@@ -1,7 +1,13 @@
-public interface ICliente
+using LojaVirtual;
+
+namespace LojaVirtual
+{
+    public interface ICliente
 {
     int Id { get; }
     string Nome { get; }
     string Email { get; }
     string CPF { get; }
 }
+}
+

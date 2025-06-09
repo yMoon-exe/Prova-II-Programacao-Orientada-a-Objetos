@@ -1,4 +1,8 @@
-public class Cliente : ICliente
+using LojaVirtual;
+
+namespace LojaVirtual
+{
+    public class Cliente : ICliente
 {
     public int Id { get; private set; }
     public string Nome { get; private set; }
@@ -16,3 +20,5 @@ public class Cliente : ICliente
         CPF = cpf;
     }
 }
+}
+

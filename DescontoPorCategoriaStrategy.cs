@@ -1,4 +1,8 @@
-public class DescontoPorCategoriaStrategy : IDescontoStrategy
+using LojaVirtual;
+
+namespace LojaVirtual
+{
+    public class DescontoPorCategoriaStrategy : IDescontoStrategy
 {
     public decimal CalcularDesconto(Pedido pedido)
     {
@@ -6,3 +10,5 @@ public class DescontoPorCategoriaStrategy : IDescontoStrategy
             ? pedido.ValorTotal * 0.10m : 0m;
     }
 }
+}
+

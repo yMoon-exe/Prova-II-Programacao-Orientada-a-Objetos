@@ -1,4 +1,8 @@
-public class Produto : IProduto
+using LojaVirtual;
+
+namespace LojaVirtual
+{
+    public class Produto : IProduto
 {
     public int Id { get; private set; }
     public string Nome { get; private set; }
@@ -15,4 +19,6 @@ public class Produto : IProduto
         Preco = preco;
         Categoria = categoria;
     }
+}   
 }
+

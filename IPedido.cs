@@ -1,4 +1,8 @@
-public interface IPedido
+using LojaVirtual;
+
+namespace LojaVirtual
+{
+    public interface IPedido
 {
     int Id { get; }
     Cliente Cliente { get; }
@@ -6,3 +10,6 @@ public interface IPedido
     DateTime Data { get; }
     decimal ValorTotal { get; }
 }
+}
+
+

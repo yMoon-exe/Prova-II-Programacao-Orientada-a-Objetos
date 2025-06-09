@@ -1,4 +1,9 @@
-public class Pedido : IPedido
+
+using LojaVirtual;
+
+namespace LojaVirtual
+{
+    public class Pedido : IPedido
 {
     public int Id { get; set; }
     public Cliente Cliente { get; set; }
@@ -6,4 +11,6 @@ public class Pedido : IPedido
     public DateTime Data { get; set; } = DateTime.Now;
 
     public decimal ValorTotal => Itens.Sum(i => i.Subtotal);
+}
+
 }
